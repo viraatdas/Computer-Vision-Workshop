@@ -5,3 +5,6 @@ We'll be talking about a specific problem in computer vision called end-to-end s
 https://github.com/commaai/speedchallenge/tree/master/data
 
 viraat.laldas@gmail.com / dasv@purdue.edu
+
+
+https://drive.google.com/drive/folders/1f_HBZKzBJ_c_hQEQsJEvDJzAgoLvrbWc

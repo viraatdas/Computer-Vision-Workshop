@@ -7,4 +7,4 @@ https://github.com/commaai/speedchallenge/tree/master/data
 viraat.laldas@gmail.com / dasv@purdue.edu
 
 
-https://drive.google.com/drive/folders/1f_HBZKzBJ_c_hQEQsJEvDJzAgoLvrbWc
+https://drive.google.com/drive/folders/1f_HBZKzBJ_c_hQEQsJEvDJzAgoLvrbWc?usp=sharing
